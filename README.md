@@ -21,7 +21,6 @@ A well-designed article summarizer web application using OpenAI's GPT-4 model po
 
 This repository houses a well-designed Article Summarizer Web Application built with React & Redux.js using OpenAI's GPT-4 model powered by Rapid API 🤖
 
-![Preview](readme_assets/mock.png)
 
 ---
 
@@ -124,6 +123,5 @@ This section used to mention useful resources and libraries that used in the GPT
 - [TailwindCSS](https://tailwindcss.com/)
 - [Rapid API](https://rapidapi.com/)
 - [Google Fonts](https://fonts.google.com/)
-- #JSMastery
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
