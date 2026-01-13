@@ -29,13 +29,13 @@ const Hero = () => {
         </div>
       </nav>
 
-      <h1 className="head_text">
-        Summarize Articles with <br className="max-md:hidden" />
-        <span className="orange_gradient">OpenAI GPT-4</span>
+      <h1 className="hero_title">
+        Turn Long Reads into <br className="max-md:hidden" />
+        <span className="gradient_text">Smart Summaries</span>
       </h1>
-      <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+      <h2 className="hero_subtitle">
+        Simplify your reading with an open‑source AI summarizer that transforms
+        lengthy articles into clear, concise summaries.
       </h2>
     </header>
   );
