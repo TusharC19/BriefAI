@@ -1,4 +1,4 @@
-# GPT-4 Summarizer Web
+# BreifAI
 
 A well-designed article summarizer web application using OpenAI's GPT-4 model powered by Rapid API — built with React & Redux.js.
 
